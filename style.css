@@ -1,0 +1,94 @@
+body{
+ margin: auto;
+ align-items: center;
+}
+.col{
+ border: 3px solid black;
+ height: 90px;
+ width: 400px;
+ left: 300px;
+ position:relative;
+}
+#mot1{
+ top: -45px;
+ left: 200px;
+ position: relative;
+
+}
+.btn{
+ top: -75px;
+ left: 300px;
+ position: relative;
+ background-color: darkgoldenrod;
+}
+.para2{
+ top: -75px;
+ position: relative;
+}
+.col2{
+ border: 3px solid black;
+ height: 90px;
+ width: 400px;
+ bottom: -30px;
+ left: 300px;
+ position:relative;
+}
+#mot2{
+ top: -45px;
+ left: 200px;
+ position: relative;
+
+}
+.btn{
+ top: -75px;
+ left: 300px;
+ position: relative;
+ background-color: darkgoldenrod;
+}
+.para2{
+ top: -75px;
+ position: relative;
+}
+.col3{
+ border: 3px solid black;
+ height: 90px;
+ width: 400px;
+ left: 300px;
+ bottom: -60px;
+ position:relative;
+}
+#mot3{
+ top: -45px;
+ left: 200px;
+ position: relative;
+
+}
+.btn{
+ top: -75px;
+ left: 300px;
+ position: relative;
+ background-color: darkgoldenrod;
+}
+.para2{
+ top: -75px;
+ position: relative;
+}
+.avatar img{
+ height: 100px;
+ width: 100px;
+
+
+}
+a{
+ right: 80px;
+ top: 20px;
+ position: relative;
+}
+.avatar{
+ border: 3px solid black;
+ height: 200px;
+ width: 200px;
+ top: 200px;
+ position: relative;
+ left: 50px;
+}
